@@ -225,4 +225,4 @@ Warface is available as a full free version for Windows, including all features 
 Download Warface and join the action today! Experience the thrill of multiplayer combat in a stunning environment. Don't miss out on this complete gaming experience!
 
 ---
-**Last updated:** 2026-10-03 06:10:53 UTC
+**Last updated:** 2026-10-03 12:19:05 UTC
